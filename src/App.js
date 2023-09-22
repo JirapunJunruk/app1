@@ -8,11 +8,12 @@ import React from 'react';
 //import RefsArray from './refs-array';
 //import MessageBox from './state-func';
 import Router2 from './router2';
+import Router3 from './router3';
 
 
 function App() {
   return (
-    <Router2/>
+    <Router3/>
     
   )
 }
