@@ -16,6 +16,9 @@ import FormValidation from './form-validation';
 
 function App() {
   return (
-   <Banner/>
+   <FormValidation/>
   )
+  
 }
+
+export default App;
