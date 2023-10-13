@@ -11,7 +11,7 @@ import MessageBox from './state-func';
 
 function App() {
   return (
-   <MessageBox/>
+   <Banner/>
   )
 }
 export default App;
